@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UniSearchScript.Properties
+namespace UniSearchTestWpf.Properties
 {
 
 
